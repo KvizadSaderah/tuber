@@ -1,0 +1,5 @@
+{
+  "name": "AI YouTube Video Summarizer",
+  "description": "A premium-looking single page app that accepts a YouTube video link, lets the user select the language of the response, then generates a short summary of the video with the main ideas highlighted. It also provides the ability to download the result in txt, markdown, and html formats.",
+  "requestFramePermissions": []
+}
